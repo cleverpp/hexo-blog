@@ -19,7 +19,7 @@ categories: Node
 
 当我们进入Node官网时，看到的界面如下所示：
 
-![Node官网界面](../../images-site/node-index.png)
+![Node官网界面](https://vip.helloimg.com/images/2023/11/23/owyyVC.png)
 
 有2个选择：LTS版和Current版。
 1. LTS版：LTS是Long-Term Support的缩写，即长期支持的版本。版本号为偶数，例如Node16、Node18、Node20等。**重点在于稳定和安全，有至少30个月的维护期，随后进入EOL(结束阶段)不再维护。** 通常在每年4月发布大版本。
@@ -29,11 +29,11 @@ categories: Node
 
 1. 版本规划表
 
-    ![node-release-schedule](../../images-site/node-release-schedule.png)
+    ![node-release-schedule](https://vip.helloimg.com/images/2023/11/23/owyg6T.png)
 
 2. 已经不再维护的版本表
 
-    ![node-eol-releases](../../images-site/node-eol-releases.png)
+    ![node-eol-releases](https://vip.helloimg.com/images/2023/11/23/owyucS.png)
 
 ## 版本ChangeLog
 

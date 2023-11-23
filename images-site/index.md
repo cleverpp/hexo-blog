@@ -6,4 +6,4 @@
 - [imgbb](https://imgbb.com/) ✅
 - [老王图床](https://img.gejiba.com/)
 - [MBA图床](https://pic.mba/)
-- [hello图床](https://www.helloimg.com/)
+- [hello图床](https://www.helloimg.com/)✅
